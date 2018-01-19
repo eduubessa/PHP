@@ -17,6 +17,7 @@ classe faz.
 e e executa os comandos, e forma rápida, esta classe está estendida
 para a classe Errors para que sempre que haja um erro ele apresente
 o erro e os detalhes do erro.<br />
+<hr />
 <h3>Erros</h3>
 <b>Ficheiro:</b> Errors.php<br />
 <b>Estado:</b> Incompleto<br />
@@ -24,3 +25,5 @@ o erro e os detalhes do erro.<br />
 e em que gera um ficheiro log e um ficheiro de erros onde guarda todos
 os erros que houver
 <br />
+<hr />
+Desenvolvido por: Eduardo Bessa
