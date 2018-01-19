@@ -12,7 +12,7 @@ require_once(__dir__ . '\Errors.php');
   * classe que trata de gerar o HTML e CSS para apresentar sempre que há um erro
   *
 **/
-class Database extends Errors {
+class MySQL extends Errors {
 	
 	protected $host = "127.0.0.1";					#IP ou nome do servidor de base de dados
 	protected $user = "root";						#Utilizador do servidor de base de dados
