@@ -28,5 +28,5 @@ os erros que houver
 <hr />
 <p>
 Desenvolvido por: Eduardo Bessa<br />
-![alt text](http://icons.iconarchive.com/icons/custom-icon-design/2014-world-cup-flags/512/Portugal-icon.png)
+![picture](http://icons.iconarchive.com/icons/custom-icon-design/2014-world-cup-flags/512/Portugal-icon.png)
 </p>
