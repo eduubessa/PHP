@@ -26,4 +26,6 @@ e em que gera um ficheiro log e um ficheiro de erros onde guarda todos
 os erros que houver
 <br />
 <hr />
+<p>
 Desenvolvido por: Eduardo Bessa
+</p>
