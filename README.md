@@ -1,4 +1,4 @@
-#PHP
+<h1>PHP</h1>
 <hr />
 <p>
 Este directório é apenas para ficheiros de PHP comentados de forma
