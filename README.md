@@ -28,5 +28,7 @@ os erros que houver
 <hr />
 <p>
 Desenvolvido por: Eduardo Bessa<br />
-![picture](http://icons.iconarchive.com/icons/custom-icon-design/2014-world-cup-flags/512/Portugal-icon.png)
+<b>Facebook:</b> /eduubessa<br />
+<b>Instagram:</b> /eduubessa<br />
+<b>E-mail:</b> me@eduardobessa.pt
 </p>
