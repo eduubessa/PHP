@@ -254,6 +254,20 @@ class MySQL extends Errors {
 		}
 	}
 
+	public function last()
+    {
+        try {
+            if($this->sql !== null){
+                $this->sql .= " DESC LIMIT 1";
+                #Apresenta o comando final
+                echo $this->sql;
+            }
+        }catch(Exception $e){
+            #Chama o método "errorShow" que irá apresentar a página de erro, com a mensagem de erro, ficheiro e linha onde existe o erro";
+            $this->errorShow($e->getMessage(), $e->getFile(), $e->getLine());
+        }
+    }
+
     /**
      * Método responsável que gera o comando SQL para inserir dados na base de dados
      *

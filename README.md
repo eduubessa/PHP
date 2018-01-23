@@ -32,9 +32,9 @@ os erros que houver
 <b>Descrição:</b> Ficheiro que demostra como usar as classes
 e os métodos criados
 <br />
-
+<hr />
 <p>
-Desenvolvido por: Eduardo Bessa<br />
+<b>Desenvolvido por:</b> Eduardo Bessa<br />
 <b>Facebook:</b> /eduubessa<br />
 <b>Instagram:</b> /eduubessa<br />
 <b>E-mail:</b> me@eduardobessa.pt
