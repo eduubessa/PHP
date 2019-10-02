@@ -6,7 +6,7 @@ class Database {
     protected $port = 3306;
     protected $user = "root";
     protected $pass = "";
-    protected $database = "blog_db";
+    protected $database = "shortcode";
     protected $encode = "utf8";
 
     private $connection = null;
